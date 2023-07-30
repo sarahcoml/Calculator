@@ -3,24 +3,17 @@ const button = document.querySelectorAll('button')
 
 
 let calculation = []
-let accumulativeCalculation
 
-
-function calculateExpression() {
-
-    calculation.join("");
-    result = eval(expression);
-    displayScreen.textContent = result;
-
-}
 
 function calculating(button) {
     const value = button.textContent;
     if (value == "C") {
-      calculation.length = 0; // Clear one entry at a time
+      calculation.length = 0; // THE ENTIRE ARRAY IS NOW EMPTY
     } else if (value == "=") {
-      calculateExpression();
-      calculation = []; // Clear the calculation array after evaluation
+      expression = calculation.join("");
+      result = eval(expression);
+      calculation = []
+      calculation.push(result);
     } else {
       calculation.push(value);
     }

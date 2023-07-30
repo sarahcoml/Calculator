@@ -1,4 +1,5 @@
-.![Calculator](https://github.com/sarahcoml/Calculator/assets/119999485/aea2efb8-a269-40f2-aec9-7733a798ef4f)
+
+![Calculator ](https://github.com/sarahcoml/Calculator/assets/119999485/08e04992-db7d-4527-af32-501b57e60d5e)
 # Calculator App
 
 This is a simple calculator web application built with HTML, CSS, and JavaScript. The calculator allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. 
@@ -35,8 +36,3 @@ The JavaScript code handles the logic behind the calculator's functionality. It 
 
 ## Styling (styling.css)
 The styling of the calculator is defined in the styling.css file. The calculator has a dark-themed appearance, and specific buttons have special hover and focus effects.
-
-
-
-
-

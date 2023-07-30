@@ -1,4 +1,4 @@
-
+.![Calculator](https://github.com/sarahcoml/Calculator/assets/119999485/aea2efb8-a269-40f2-aec9-7733a798ef4f)
 # Calculator App
 
 This is a simple calculator web application built with HTML, CSS, and JavaScript. The calculator allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. 
@@ -19,14 +19,10 @@ The buttons represent numbers (0-9) and operators (+, -, *, ÷) to perform arith
 
 ## Usage
 1. Click the number buttons (0-9) to input the desired numbers for your calculation.
-2. Click the operator buttons (+, -, *, ÷) to choose the arithmet
-
-https://github.com/sarahcoml/Calculator/assets/119999485/c2fe2f21-4bc2-4787-880c-82479072fa07
-
-ic operation.
+2. Click the operator buttons (+, -, *, ÷) to choose the arithmetic operation.
 3. The result will be displayed on the result screen immediately after you click the "=" button.
 4. To clear the calculation, click the "C" button.
-The calculator supports chaining calculations. After obtaining a result, you can use it in the next calculation.
+   The calculator supports chaining calculations. After obtaining a result, you can use it in the next calculation.
 
 ## JavaScript Code (app.js) 
 The JavaScript code handles the logic behind the calculator's functionality. It defines an array calculation to store the entered values and operators for the calculation.

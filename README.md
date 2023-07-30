@@ -19,7 +19,11 @@ The buttons represent numbers (0-9) and operators (+, -, *, ÷) to perform arith
 
 ## Usage
 1. Click the number buttons (0-9) to input the desired numbers for your calculation.
-2. Click the operator buttons (+, -, *, ÷) to choose the arithmetic operation.
+2. Click the operator buttons (+, -, *, ÷) to choose the arithmet
+
+https://github.com/sarahcoml/Calculator/assets/119999485/c2fe2f21-4bc2-4787-880c-82479072fa07
+
+ic operation.
 3. The result will be displayed on the result screen immediately after you click the "=" button.
 4. To clear the calculation, click the "C" button.
 The calculator supports chaining calculations. After obtaining a result, you can use it in the next calculation.
@@ -33,7 +37,7 @@ The JavaScript code handles the logic behind the calculator's functionality. It 
     - For other button values (numbers and operators), they are pushed into the calculation array.
 - The displayScreen element is updated with the current calculation array joined as a string to show the input and result.
 
-## Styling (styling.css) 
+## Styling (styling.css)
 The styling of the calculator is defined in the styling.css file. The calculator has a dark-themed appearance, and specific buttons have special hover and focus effects.
 
 
